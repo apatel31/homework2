@@ -24,7 +24,7 @@ body {
 
 img {
 	align-content: center;
-	min-width: 550px;
+	width: 550px;
 	width: auto;
 	height: auto;
 	display: block;
