@@ -1,0 +1,72 @@
+
+p {
+	padding: 15px;
+	font-size: 16px;
+}
+
+h1 {
+	color: white;
+	font-size: 64px;
+	text-align: center;
+}
+
+h2 {
+	color: white;
+	font-size: 32px;
+	text-shadow: 4px 4px 2px black;
+}
+
+body {
+	color: white;
+	background-color: black;
+	font-family: "Lucida Grande", sans-serif;
+}
+
+img {
+	align-content: center;
+	min-width: 550px;
+	width: auto;
+	height: auto;
+	display: block;
+
+}
+
+div {
+	padding: 30px;
+	min-height: 100px;
+}
+
+#red {
+	background-color: red;
+	text-align: right;
+}
+
+#blue {
+	background-color: blue;
+	text-align: left;
+}
+
+#yellow {
+	background-color: yellow;
+	text-align: right;
+}
+
+#yellow h2 {
+	color: black;
+	text-shadow: 4px 4px 2px grey;
+}
+
+#yellow p {
+	color: black;
+}
+
+#green {
+	background-color: green;
+	text-align: left;
+}
+
+
+footer {
+	text-align: center;
+	padding-bottom: 15px;
+}
